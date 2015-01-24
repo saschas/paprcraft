@@ -1,0 +1,487 @@
+# Webalizer V2.23-08 Incremental Data - 01/22/2015 19:42:51
+2015 1 22 19 42 51
+166 150 76 6 17 40 3076563 137 121 0
+3 2 6 1 22
+6 6 284223 4 5 3
+9 8 99424 8 6 6
+5 5 64719 5 5 5
+10 10 184696 6 7 7
+7 7 206729 6 7 7
+6 6 116946 5 6 5
+2 2 83310 1 2 1
+5 5 102469 4 4 4
+5 4 36767 4 2 2
+5 4 104618 3 3 2
+8 5 352728 2 4 2
+8 8 228000 7 7 7
+12 12 129709 6 10 9
+6 6 107991 5 6 5
+7 7 123722 5 7 6
+13 13 160686 7 11 11
+10 6 195293 7 10 7
+5 4 25168 4 5 5
+15 10 112585 12 12 12
+17 17 291337 12 14 11
+2 2 25737 2 2 2
+3 3 39706 3 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 25737 2
+5 5 52198 4
+4 4 32707 3
+3 3 45228 3
+8 7 110468 7
+4 4 32707 3
+3 3 45228 3
+7 7 88273 7
+13 13 299389 9
+1 1 6246 1
+1 0 0 0
+14 8 144324 14
+12 12 577370 6
+5 5 175049 5
+8 8 252874 7
+9 9 132769 5
+11 10 128483 9
+9 9 143407 8
+5 4 168987 5
+7 7 150936 6
+21 15 266995 19
+7 7 126223 4
+1 1 0 1
+6 6 70965 6
+0
+0
+0
+150
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+1
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/img/title.jpg
+1 1 0 99357 0 0
+/img/hirsch.png
+1 1 0 232307 0 0
+/css/style.css
+1 18 0 14125 0 0
+/
+0 88 0 2430033 79 31
+/impressum.php
+0 35 0 296044 32 18
+/script.js
+1 9 0 2100 0 0
+# End Of Table - urls
+# -sites- (monthly)
+194.242.3.49
+0 1 1 19491 1 1421304657
+/
+crawl-192-99-107-28.meanpathbot.com
+0 1 1 19491 1 1421462487
+/
+182.50.16.89
+0 1 0 177 1 1421667567
+-
+54.167.40.150
+0 1 1 66002 1 1421092994
+/
+crawl-66-249-64-161.googlebot.com
+0 1 1 724 0 0
+-
+123.125.71.110
+0 1 1 19491 1 1421074719
+/
+5.61.39.15
+0 1 1 19491 1 1420566086
+/
+ec2-54-166-147-17.compute-1.amazonaws.com
+0 1 1 19491 1 1420173653
+/
+69.58.178.59
+0 3 3 149312 1 1421743003
+/impressum.php
+baiduspider-220-181-108-146.crawl.baidu.com
+0 1 1 19491 1 1420518950
+/
+p57a60f33.dip0.t-ipconnect.de
+0 1 1 19491 1 1420342149
+/
+180.76.4.43
+0 1 1 16252 1 1421208014
+/
+ip88-43.mwtv.lv
+0 1 1 19491 1 1421329769
+/
+180.76.4.58
+0 1 1 16252 1 1420812007
+/
+b110021.yse.yahoo.net
+0 2 2 25737 1 1421108149
+/impressum.php
+centro-2.grapeshot.co.uk
+0 1 1 19491 1 1421829279
+/
+crawl-66-249-64-36.googlebot.com
+0 4 4 26761 2 1421149521
+/impressum.php
+msnbot-157-55-39-239.search.msn.com
+0 1 1 6246 1 1420275523
+/impressum.php
+h9.168.21.98.dynamic.ip.windstream.net
+0 1 1 19491 1 1421667565
+/
+144.76.163.48
+0 1 1 17308 1 1421080254
+/impressum.php
+hawk001.startdedicated.com
+0 3 3 198006 1 1420116235
+/
+91.214.18.9
+0 1 0 176 1 1421667565
+-
+msnbot-207-46-13-19.search.msn.com
+0 1 1 6246 1 1421759473
+/impressum.php
+crawl-66-249-78-212.googlebot.com
+0 5 5 25708 4 1421771150
+/impressum.php
+crawl-66-249-64-157.googlebot.com
+0 1 1 19491 1 1421954797
+/
+180.76.6.147
+0 1 1 724 0 0
+-
+crawl-66-249-64-40.googlebot.com
+0 1 1 6246 1 1421135939
+/impressum.php
+180.76.4.63
+0 1 1 16252 1 1420690402
+/
+10-144-179-94.pool.ukrtel.net
+0 1 0 184 1 1421604023
+-
+208.115.113.93
+0 1 1 66002 1 1420493900
+/
+crawl-66-249-67-133.googlebot.com
+0 6 6 98179 5 1421408126
+/
+crawl-66-249-78-72.googlebot.com
+0 3 3 39706 2 1420748346
+/
+crawl-66-249-75-181.googlebot.com
+0 1 1 19491 1 1420442796
+/
+119.231.57.37.triolan.net
+0 6 0 1098 2 1421527210
+-
+198.178.124.47
+0 1 1 19491 1 1421084502
+/
+static.69.201.76.144.clients.your-server.de
+0 2 2 83310 1 1420620084
+/
+crawl-66-249-64-153.googlebot.com
+0 1 1 19491 1 1420922356
+/
+208-115-111-72-reverse.wowrack.com
+0 3 3 149312 3 1421522217
+/
+crawl-66-249-67-141.googlebot.com
+0 5 5 97455 5 1421646095
+/
+baiduspider-180-76-5-73.crawl.baidu.com
+0 1 0 0 0 0
+-
+crawl-66-249-67-60.googlebot.com
+0 10 10 77482 8 1421754178
+/impressum.php
+91.210.120.140
+0 1 0 178 1 1421667565
+-
+crawl-66-249-64-32.googlebot.com
+0 1 1 19491 1 1421149851
+/
+crawl-66-249-78-198.googlebot.com
+0 3 3 12792 2 1421803997
+/impressum.php
+176.203.62.151
+0 5 5 352179 1 1420979635
+/
+crawl-66-249-75-213.googlebot.com
+0 5 5 97455 5 1420431715
+/
+crawl-66-249-75-197.googlebot.com
+0 2 2 20215 1 1420414939
+/
+www.whois.sc
+0 4 4 77964 3 1421685431
+/
+38.100.21.64
+0 3 3 85127 1 1420900406
+/impressum.php
+msnbot-207-46-13-20.search.msn.com
+0 1 1 19491 1 1420789609
+/
+ns7000255.ip-192-99-40.net
+0 4 4 0 4 1421739631
+/
+107-155-70-223-customer-incero.com
+0 4 4 132004 2 1421787311
+/
+h051.helix.fastwebserver.de
+0 1 1 17308 1 1421779026
+/impressum.php
+173.199.124.98.vultr.com
+0 1 1 19491 1 1420515410
+/
+54.92.177.218
+0 1 1 66002 1 1421074632
+/
+crawl-66-249-67-149.googlebot.com
+0 5 5 59921 3 1421427645
+/
+baiduspider-220-181-108-163.crawl.baidu.com
+0 1 1 19491 1 1420185940
+/
+msnbot-157-55-39-31.search.msn.com
+0 2 2 1024 0 0
+-
+crawl-66-249-67-52.googlebot.com
+0 8 8 32978 5 1421649218
+/impressum.php
+node-67p.pool-1-1.dynamic.totbb.net
+0 1 0 181 1 1421667567
+-
+crawl-66-249-78-58.googlebot.com
+0 2 2 38982 2 1421783267
+/
+104.131.210.140
+0 1 1 0 1 1420500345
+/
+180.76.4.108
+0 1 1 16252 1 1420488684
+/
+053f92ac.rdns.100tb.com
+0 1 0 204 1 1421513193
+-
+66.249.64.153
+0 2 2 20215 1 1421092837
+/
+pool-71-254-183-35.lsanca.fios.verizon.net
+0 2 2 66002 1 1421322320
+/
+static.42.124.251.148.clients.your-server.de
+0 2 2 83310 1 1421502439
+/
+nfrance.jestservers.com
+0 2 2 132004 2 1420463437
+/
+baiduspider-180-76-5-149.crawl.baidu.com
+0 1 0 0 0 0
+-
+region6.timegeek.net
+0 1 1 19491 1 1421943367
+/
+104.131.193.60
+0 1 1 66002 1 1420740609
+/
+c-24-125-23-131.hsd1.va.comcast.net
+0 1 0 178 1 1421667569
+-
+crawl-66-249-67-44.googlebot.com
+0 12 12 110942 9 1421719006
+/impressum.php
+s16566342.onlinehome-server.info
+0 1 0 221 1 1420197384
+-
+crawl-66-249-78-205.googlebot.com
+0 1 1 6246 1 1421784477
+/impressum.php
+91.207.60.67
+0 1 1 19491 1 1421083074
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-64-161.googlebot.com
+0 1 1 724 0 0
+-
+crawl-66-249-64-157.googlebot.com
+0 1 1 19491 1 1421954797
+/
+region6.timegeek.net
+0 1 1 19491 1 1421943367
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://paprcraft.com/wordpress
+1 1
+http://whois.domaintools.com/paprcraft.com
+1 2
+PAPRCRAFT.COM
+0 1
+http://www.domaintuno.com/d/paprcraft.com
+1 4
+http://paprcraft.com/wp
+1 1
+http://whois.domaintools.com/paprcraft.de
+1 2
+http://paprcraft.com
+1 1
+http://www.netcraft.com/survey/
+0 1
+http://www.paprcraft.com/
+1 4
+- (Direct Request)
+0 134
+http://paprcraft.de/wp-login.php
+1 1
+http://paprcraft.com/joomla
+1 1
+http://paprcraft.com/
+1 9
+http://paprcraft.de/
+1 1
+http://paprcraft.com/blog
+1 1
+http://paprcraft.com/admin/
+1 1
+http://paprcraft.com/drupal
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 1
+Mozilla/5.0 (compatible; Gimme60bot/1.0; +http://gimme60.com)
+0 2
+Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)
+0 1
+Spider: Googlebot
+2 61
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 4
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+1 2
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+1 2
+Mozilla/5.0 (compatible; DomainTunoCrawler/0.1; +http://www.domaintuno.com/robot)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+1 1
+Browser: MSIE
+2 19
+wscheck.com/1.0.0 (+http://wscheck.com/)
+0 2
+SEOstats 2.1.0          https://github.com/eyecatchup/SEOstats
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 60
+Browser: Firefox
+2 18
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+1 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+1 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 13
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/24.0.1309.0 Safari/537.17
+1 3
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/24.0.1309.0 Safari/537.17
+1 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+1 3
+Spider: Yahoo
+2 2
+Mozilla/5.0 (Windows NT 5.1; rv:12.0) Gecko/20120403211507 Firefox/12.0
+1 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+1 3
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+1 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+1 10
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36
+1 1
+Googlebot/2.1 (+http://www.googlebot.com/bot.html)
+1 1
+Mozilla/3.1 (Windows; U; Windows NT 7.6; en-US; rv:6.6.6.4) Gecko/20150102111658 Firefox/5.6.9
+1 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22
+1 1
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+1 1
+crawler4j (http://code.google.com/p/crawler4j/)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+1 1
+Browser: Safari
+2 23
+%5CMozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0%5C
+1 1
+Mozilla/5.0 (compatible; AdvBot/2.0; +http://advbot.net/bot.html)
+0 1
+Firefox
+1 4
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/27.0.1453 Safari/537.36 (compatible; 
+1 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+1 4
+Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25
+1 5
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

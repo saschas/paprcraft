@@ -1,0 +1,1 @@
+<h2>Me</h2><p>Frontend Developer, tinkerer, loves crafting. Into Blender 3D and CSS3 Animation. Self taught and addicted to the web.</p>

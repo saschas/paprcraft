@@ -1,0 +1,1 @@
+<?php include 'articles/no1/teaser.php'; ?>

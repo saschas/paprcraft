@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$(".code-block").length>0&&$(".code-block").each(function(e){CodeMirror.fromTextArea($(this)[0],{lineNumbers:!0,matchBrackets:!0,mode:"text/"+$(this).attr("data-code-type"),theme:"monokai"})})});
