@@ -11,56 +11,352 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/articles\/no1\/basic_scene_thumb_300.jpg": {
+	"\/analog\/analog_header.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/analog\/analog_header.js",
+		"outputAbbreviatedPath": "\/analog\/min\/analog_header-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/analog\/heart.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/analog\/heart.js",
+		"outputAbbreviatedPath": "\/analog\/min\/heart-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/analog\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/analog\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/analog\/load_tumblr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/analog\/load_tumblr.js",
+		"outputAbbreviatedPath": "\/analog\/min\/load_tumblr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/analog\/min\/analog_header-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/analog\/min\/analog_header-min.js",
+		"outputAbbreviatedPath": "\/analog\/min\/min\/analog_header-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/analog\/min\/load_tumblr-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/analog\/min\/load_tumblr-min.js",
+		"outputAbbreviatedPath": "\/analog\/min\/min\/load_tumblr-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/analog\/mosaic_jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/analog\/mosaic_jquery.js",
+		"outputAbbreviatedPath": "\/analog\/min\/mosaic_jquery-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/analog\/schere.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/analog\/schere.js",
+		"outputAbbreviatedPath": "\/analog\/min\/schere-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/articles\/a_useful_object\/a_useful_object_thumb_300.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 7910,
-		"inputAbbreviatedPath": "\/articles\/no1\/basic_scene_thumb_300.jpg",
-		"outputAbbreviatedPath": "\/articles\/no1\/basic_scene_thumb_300.jpg",
+		"inputAbbreviatedPath": "\/articles\/a_useful_object\/a_useful_object_thumb_300.jpg",
+		"outputAbbreviatedPath": "\/articles\/a_useful_object\/a_useful_object_thumb_300.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/articles\/no1\/index.js": {
+	"\/articles\/a_useful_object\/basic_scene.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/articles\/no1\/index.js",
-		"outputAbbreviatedPath": "\/articles\/no1\/min\/index-min.js",
+		"inputAbbreviatedPath": "\/articles\/a_useful_object\/basic_scene.js",
+		"outputAbbreviatedPath": "\/articles\/a_useful_object\/min\/basic_scene-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/articles\/no1\/index.php": {
+	"\/articles\/a_useful_object\/console.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90480,
+		"inputAbbreviatedPath": "\/articles\/a_useful_object\/console.jpg",
+		"outputAbbreviatedPath": "\/articles\/a_useful_object\/console.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/articles\/a_useful_object\/console.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 174316,
+		"inputAbbreviatedPath": "\/articles\/a_useful_object\/console.png",
+		"outputAbbreviatedPath": "\/articles\/a_useful_object\/console.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/articles\/a_useful_object\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/articles\/no1\/index.php",
+		"inputAbbreviatedPath": "\/articles\/a_useful_object\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/articles\/no1\/min\/index-min.js": {
+	"\/articles\/a_useful_object\/min\/index-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/articles\/a_useful_object\/min\/index-min.js",
+		"outputAbbreviatedPath": "\/articles\/a_useful_object\/min\/min\/index-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/articles\/a_useful_object\/teaser.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/articles\/a_useful_object\/teaser.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/articles\/basic_scene\/basic_scene.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/articles\/basic_scene\/basic_scene.js",
+		"outputAbbreviatedPath": "\/articles\/basic_scene\/min\/basic_scene-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/articles\/basic_scene\/basic_scene_thumb_300.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7910,
+		"inputAbbreviatedPath": "\/articles\/basic_scene\/basic_scene_thumb_300.jpg",
+		"outputAbbreviatedPath": "\/articles\/basic_scene\/basic_scene_thumb_300.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/articles\/basic_scene\/console.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90480,
+		"inputAbbreviatedPath": "\/articles\/basic_scene\/console.jpg",
+		"outputAbbreviatedPath": "\/articles\/basic_scene\/console.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/articles\/basic_scene\/console.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 174316,
+		"inputAbbreviatedPath": "\/articles\/basic_scene\/console.png",
+		"outputAbbreviatedPath": "\/articles\/basic_scene\/console.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/articles\/basic_scene\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/articles\/basic_scene\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/articles\/basic_scene\/min\/basic_scene-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/articles\/no1\/min\/index-min.js",
-		"outputAbbreviatedPath": "\/articles\/no1\/min\/min\/index-min-min.js",
+		"inputAbbreviatedPath": "\/articles\/basic_scene\/min\/basic_scene-min.js",
+		"outputAbbreviatedPath": "\/articles\/basic_scene\/min\/min\/basic_scene-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/articles\/no1\/teaser.php": {
+	"\/articles\/basic_scene\/min\/index-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/articles\/basic_scene\/min\/index-min.js",
+		"outputAbbreviatedPath": "\/articles\/basic_scene\/min\/min\/index-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/articles\/basic_scene\/teaser.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/articles\/no1\/teaser.php",
+		"inputAbbreviatedPath": "\/articles\/basic_scene\/teaser.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/articles\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/articles\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/articles\/store_audio_data\/console.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90480,
+		"inputAbbreviatedPath": "\/articles\/store_audio_data\/console.jpg",
+		"outputAbbreviatedPath": "\/articles\/store_audio_data\/console.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/articles\/store_audio_data\/console.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131072,
+		"inputAbbreviatedPath": "\/articles\/store_audio_data\/console.png",
+		"outputAbbreviatedPath": "\/articles\/store_audio_data\/console.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/articles\/store_audio_data\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/articles\/store_audio_data\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/articles\/store_audio_data\/min\/index-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/articles\/store_audio_data\/min\/index-min.js",
+		"outputAbbreviatedPath": "\/articles\/store_audio_data\/min\/min\/index-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/articles\/store_audio_data\/min\/store_audio_data-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/articles\/store_audio_data\/min\/store_audio_data-min.js",
+		"outputAbbreviatedPath": "\/articles\/store_audio_data\/min\/min\/store_audio_data-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/articles\/store_audio_data\/store_audio_data.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/articles\/store_audio_data\/store_audio_data.js",
+		"outputAbbreviatedPath": "\/articles\/store_audio_data\/min\/store_audio_data-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/articles\/store_audio_data\/store_audio_thumb_300.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7910,
+		"inputAbbreviatedPath": "\/articles\/store_audio_data\/store_audio_thumb_300.jpg",
+		"outputAbbreviatedPath": "\/articles\/store_audio_data\/store_audio_thumb_300.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/articles\/store_audio_data\/teaser.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/articles\/store_audio_data\/teaser.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/img\/codepen_icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24766,
+		"inputAbbreviatedPath": "\/assets\/img\/codepen_icon.png",
+		"outputAbbreviatedPath": "\/assets\/img\/codepen_icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/assets\/img\/gh.png": {
 		"fileType": 32768,
@@ -84,6 +380,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/heart-log-black.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7358,
+		"inputAbbreviatedPath": "\/assets\/img\/heart-log-black.png",
+		"outputAbbreviatedPath": "\/assets\/img\/heart-log-black.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/heart-log.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -91,6 +398,17 @@
 		"initialSize": 5270,
 		"inputAbbreviatedPath": "\/assets\/img\/heart-log.png",
 		"outputAbbreviatedPath": "\/assets\/img\/heart-log.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/heart-log_blue.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7356,
+		"inputAbbreviatedPath": "\/assets\/img\/heart-log_blue.png",
+		"outputAbbreviatedPath": "\/assets\/img\/heart-log_blue.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -105,6 +423,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/codepen_info.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/codepen_info.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/config.rb": {
 		"fileType": 131072,
@@ -1497,7 +1824,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Privat",
+"lastSavedByUser": "Sascha Sigl",
 "manualImportLinks": {
 	},
 "projectAttributes": {

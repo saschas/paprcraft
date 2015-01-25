@@ -4,14 +4,14 @@
 			<?php include 'contact.php';?>
 		</div>
 		<div class="footer-col">
-			<p>Made with <span class="heart-ico"></span> by Sascha Sigl.</p>
+			
 		</div> 
 		<div class="footer-col">
 			<?php include 'about.php';?>
 		</div>		
 	</div>
   <div class="footer-bottom">
-  	 <a href="impressum.php" class="impressum-link">Impressum</a>
+  	 <p>Made with <span class="heart-ico"></span> by Sascha Sigl.</p><a href="impressum.php" class="impressum-link">Impressum</a>
   </div>
 </footer>
 <!--Load scripts at the bottom at the page.-->

@@ -1,5 +1,5 @@
 jQuery(document).ready(function($){
-var main_color = 0x0584C7;
+var main_color = 0x009EF2;
 
 var canvas_height = (window.innerHeight-(window.innerHeight/4));
 var canvas_width = window.innerWidth;

@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
-<?php $root = 'http://192.168.0.100/paprcraft/'; ?>
+<?php $root = 'http://paprcraft.com/'; ?>
 <head>
 
   <meta charset="UTF-8">
 
-  <title>paprcraft - 3d paper art</title>
-
+  <title>paprcraft — 3d webart</title>
+<link rel="shortcut icon" href="favicon.png" type="image/png" />
+<link rel="icon" href="favicon.png" type="image/png" />
 <meta name="viewport" content="width=device-width">
 <link href="http://fonts.googleapis.com/css?family=Special+Elite|Roboto|Roboto+Condensed" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="<?php echo $root; ?>css/style.css" media="screen" type="text/css" />
