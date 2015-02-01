@@ -1,11 +1,21 @@
 <!DOCTYPE html>
 <html>
-<?php $root = 'http://paprcraft.com/'; ?>
+<?php $root = 'http://192.168.0.101/paprcraft/'; ?>
 <head>
 
   <meta charset="UTF-8">
 
-  <title>paprcraft — 3d webart</title>
+  <title>paprcraft — &hearts; 3d web</title>
+<meta name="author" content="paprcraft">
+<meta name="publisher" content="Sascha Sigl">
+<meta name="copyright" content="Sascha Sigl">
+<meta name="description" content="Paprcraft talks about 3d on the web and Javascript.">
+<meta name="keywords" content="3d,design,web,technologie, three.js, javascript, blender, jquery">
+<meta http-equiv="content-language" content="en">
+<meta name="robots" content="index, follow">
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://paprcraft.com/assets/img/home_background.png" />
+
 <link rel="shortcut icon" href="favicon.png" type="image/png" />
 <link rel="icon" href="favicon.png" type="image/png" />
 <meta name="viewport" content="width=device-width">
