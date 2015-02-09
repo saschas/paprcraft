@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<?php $root = 'http://192.168.0.101/paprcraft/'; ?>
+<?php $root = 'http://localhost/paprcraft/'; ?>
 <head>
 
   <meta charset="UTF-8">

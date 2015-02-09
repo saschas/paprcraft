@@ -1,0 +1,25 @@
+##Block Spammy Website Referrers
+SetEnvIfNoCase Referer bestwebsitesawards.com spam=yes
+SetEnvIfNoCase User-Agent bestwebsitesawards.com spam=yes
+SetEnvIfNoCase Referer advokateg.ru spam=yes
+SetEnvIfNoCase User-Agent advokateg.ru spam=yes
+Order allow,deny
+Allow from all
+Deny from env=spam
+
+SetEnvIfNoCase Referer advokateg.ru spam=yes
+SetEnvIfNoCase Referer forum.advokateg.ru spam=yes
+SetEnvIfNoCase User-Agent advokateg.ru spam=yes
+Order allow,deny
+Allow from all
+Deny from env=spam
+
+## BAN SPAMMY WEBSITE REFERRER 
+RewriteEngine on 
+# Options +FollowSymlinks 
+RewriteCond %{HTTP_REFERER} bestwebsitesawards\.com [NC,OR] 
+RewriteCond %{HTTP_REFERER} advokateg\.ru[NC, OR]
+RewriteCond %{HTTP_USER_AGENT} bestwebsitesawards.com [NC, OR]
+RewriteCond %{HTTP_USER_AGENT} advokateg.ru [NC]
+RewriteRule ^(.*)$ http://econom.co/
+RewriteRule .* - [F]
