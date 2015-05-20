@@ -1,4 +1,6 @@
+<!--rtest-->
 <?php include 'html_head.php';?>
+
 <?php include 'header-start.php';?>
 
 
@@ -16,9 +18,4 @@
 <script src="js/header.js"></script>
 
 
-
-
-
-<!--test ist geändert-->
-
-<?php include 'html_footer.php';?>
+<?php include 'html_footer.php';?><!--rtest-->
