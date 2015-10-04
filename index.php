@@ -1,4 +1,6 @@
+<!--rtest-->
 <?php include 'html_head.php';?>
+
 <?php include 'header-start.php';?>
 
 
@@ -15,4 +17,5 @@
 <!--site specific script-->
 <script src="js/header.js"></script>
 
-<?php include 'html_footer.php';?>
+
+<?php include 'html_footer.php';?><!--rtest-->
