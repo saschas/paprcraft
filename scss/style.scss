@@ -37,6 +37,16 @@ body {
   font-family: 'Special Elite', cursive;
 }
 
+//_____________________________________
+section.content ul {
+    padding: 10px 30px;
+    margin: 1em 0;
+    line-height: 30px;
+    font-size: 1.2em;
+    display: inline-block;
+}
+//_____________________________________
+
 .button-github{
   background-image:url('../assets/img/github_icon.png');
 }
@@ -630,6 +640,10 @@ footer .footer-bottom{
       padding-right:1em;
     }
   }
+}
+
+.dg.ac{
+  z-index:9999!important;
 }
 
 

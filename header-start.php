@@ -4,5 +4,6 @@
   <nav>
 	<a href="<?php echo $root; ?>articles">articles</a>
 	<a href="<?php echo $root; ?>analog">analog</a>
+	<a href="http://saschas.github.io" target="_blank">experiments</a>
 </nav>
 </header>
