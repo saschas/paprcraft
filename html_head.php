@@ -7,7 +7,7 @@
 <meta name="author" content="paprcraft">
 <meta name="publisher" content="Sascha Sigl">
 <meta name="copyright" content="Sascha Sigl">
-
+<!--github is working-->
 <meta name="description" content="Paprcraft talks about 3d on the web and Javascript.">
 <meta name="keywords" content="3d,design,web,technologie, three.js, javascript, blender, jquery">
 <meta http-equiv="content-language" content="en">
