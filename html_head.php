@@ -4,7 +4,6 @@
 <head>
 
   <meta charset="UTF-8">
-<!--test 2-->
   <title>paprcraft — &hearts; 3d web</title>
 <meta name="author" content="paprcraft">
 <meta name="publisher" content="Sascha Sigl">
