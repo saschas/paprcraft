@@ -1,15 +1,31 @@
 <!DOCTYPE html>
 <html>
-<?php $root = 'http://paprcraft.com/'; ?>
+<?php include 'settings.php'; ?>
 <head>
   <meta charset="UTF-8">
   <title>paprcraft — &hearts; 3d web</title>
-<meta name="author" content="paprcraft">
+<meta name="author" content="Sascha Sigl">
 <meta name="publisher" content="Sascha Sigl">
 <meta name="copyright" content="Sascha Sigl">
-<!--github is working-->
-<meta name="description" content="Paprcraft talks about 3d on the web and Javascript.">
-<meta name="keywords" content="3d,design,web,technologie, three.js, javascript, blender, jquery">
+
+<meta name="twitter:card" content="photo"/>
+<meta name="twitter:site" content="@paprcraft" />
+<meta name="twitter:title" content="paprcraft — &hearts; 3d web" />
+<meta name="twitter:image" content="http://paprcraft/thumb_paprcraft.jpg" />
+<meta name="twitter:url" content="http://paprcraft.com" />
+
+<!-- Open Graph data -->
+<meta property="og:title" content="paprcraft — &hearts; 3d web" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://paprcraft.com" />
+<meta property="og:image" content="http://paprcraft/thumb_paprcraft.jpg" />
+<meta property="og:description" content="paprcraft talks about 3d on the web." />
+<meta property="og:site_name" content="paprcraft.com" />
+
+
+
+<meta name="description" content="paprcraft talks about 3d on the web.">
+<meta name="keywords" content="3d,web,webgl,vr,ar,technologie, three.js, javascript, blender,design">
 <meta http-equiv="content-language" content="en">
 <meta name="robots" content="index, follow">
 <meta property="og:type" content="website" />
@@ -17,7 +33,9 @@
 
 <link rel="shortcut icon" href="favicon.png" type="image/png" />
 <link rel="icon" href="favicon.png" type="image/png" />
+
 <meta name="viewport" content="width=device-width">
+
 <link href="http://fonts.googleapis.com/css?family=Special+Elite|Roboto|Roboto+Condensed" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="<?php echo $root; ?>css/style.css" media="screen" type="text/css" />
 <link href="<?php echo $root; ?>js/codemirror.css" type="text/css" rel="stylesheet" >

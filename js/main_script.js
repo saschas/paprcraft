@@ -9,4 +9,10 @@ jQuery(document).ready(function($){
 			});
 		});
 	}
+
+
+	$('.main_menu').click(function(){
+		$(this).toggleClass('active');
+	});
+
 });

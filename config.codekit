@@ -594,6 +594,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/heart-log-black_tiny.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1975,
+		"inputAbbreviatedPath": "\/assets\/img\/heart-log-black_tiny.png",
+		"outputAbbreviatedPath": "\/assets\/img\/heart-log-black_tiny.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/heart-log.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -616,6 +627,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/heart-log_small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4342,
+		"inputAbbreviatedPath": "\/assets\/img\/heart-log_small.png",
+		"outputAbbreviatedPath": "\/assets\/img\/heart-log_small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/heart-log_small_dark.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4188,
+		"inputAbbreviatedPath": "\/assets\/img\/heart-log_small_dark.png",
+		"outputAbbreviatedPath": "\/assets\/img\/heart-log_small_dark.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/home_background.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -623,6 +656,39 @@
 		"initialSize": 423505,
 		"inputAbbreviatedPath": "\/assets\/img\/home_background.png",
 		"outputAbbreviatedPath": "\/assets\/img\/home_background.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/menu.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2783,
+		"inputAbbreviatedPath": "\/assets\/img\/menu.png",
+		"outputAbbreviatedPath": "\/assets\/img\/menu.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/menu_close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2967,
+		"inputAbbreviatedPath": "\/assets\/img\/menu_close.png",
+		"outputAbbreviatedPath": "\/assets\/img\/menu_close.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/menu_dark.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3778,
+		"inputAbbreviatedPath": "\/assets\/img\/menu_dark.png",
+		"outputAbbreviatedPath": "\/assets\/img\/menu_dark.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -642,6 +708,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/config.rb",
 		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/contact.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contact.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -701,6 +776,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/github.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/github.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/header-start.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -719,6 +803,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/html_footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/html_footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/html_head.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -733,6 +826,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/impressum.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -878,1109 +980,11 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/paprcraft\/color_picker_files\/bar-blue-bl.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 177,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-blue-bl.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-blue-bl.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-blue-br.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 172,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-blue-br.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-blue-br.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-blue-tl.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 175,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-blue-tl.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-blue-tl.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-blue-tr.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 173,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-blue-tr.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-blue-tr.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-brightness.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 263,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-brightness.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-brightness.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-green-bl.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 177,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-green-bl.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-green-bl.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-green-br.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 176,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-green-br.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-green-br.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-green-tl.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 172,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-green-tl.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-green-tl.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-green-tr.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 172,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-green-tr.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-green-tr.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-red-bl.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 175,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-red-bl.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-red-bl.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-red-br.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 179,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-red-br.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-red-br.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-red-tl.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 406,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-red-tl.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-red-tl.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-red-tr.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 172,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-red-tr.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-red-tr.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/bar-saturation.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 257,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-saturation.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/bar-saturation.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/colormethods.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/colormethods.js",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/min\/colormethods-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/paprcraft\/color_picker_files\/colorpicker.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/colorpicker.js",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/min\/colorpicker-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/paprcraft\/color_picker_files\/colorvaluepicker.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/colorvaluepicker.js",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/min\/colorvaluepicker-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/paprcraft\/color_picker_files\/map-blue-max.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 612,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-blue-max.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-blue-max.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/map-blue-min.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 637,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-blue-min.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-blue-min.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/map-brightness.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6305,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-brightness.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-brightness.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/map-green-max.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 634,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-green-max.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-green-max.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/map-green-min.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3293,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-green-min.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-green-min.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/map-hue.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 15712,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-hue.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-hue.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/map-red-max.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 614,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-red-max.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-red-max.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/map-red-min.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 614,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-red-min.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-red-min.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/map-saturation-overlay.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 38806,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-saturation-overlay.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-saturation-overlay.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/map-saturation.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6260,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-saturation.png",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/map-saturation.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/color_picker_files\/prototype.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/prototype.js",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/min\/prototype-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/paprcraft\/color_picker_files\/slider.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/color_picker_files\/slider.js",
-		"outputAbbreviatedPath": "\/paprcraft\/color_picker_files\/min\/slider-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/paprcraft\/colorpicker.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/colorpicker.js",
-		"outputAbbreviatedPath": "\/paprcraft\/min\/colorpicker-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/paprcraft\/colorpicker.php": {
+	"\/main_menu.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/colorpicker.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/colorpicker\/images\/bar-brightness.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 263,
-		"inputAbbreviatedPath": "\/paprcraft\/colorpicker\/images\/bar-brightness.png",
-		"outputAbbreviatedPath": "\/paprcraft\/colorpicker\/images\/bar-brightness.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/colorpicker\/images\/bar-saturation.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 257,
-		"inputAbbreviatedPath": "\/paprcraft\/colorpicker\/images\/bar-saturation.png",
-		"outputAbbreviatedPath": "\/paprcraft\/colorpicker\/images\/bar-saturation.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/colorpicker\/images\/map-brightness.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6305,
-		"inputAbbreviatedPath": "\/paprcraft\/colorpicker\/images\/map-brightness.png",
-		"outputAbbreviatedPath": "\/paprcraft\/colorpicker\/images\/map-brightness.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/colorpicker\/images\/map-saturation-overlay.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 38806,
-		"inputAbbreviatedPath": "\/paprcraft\/colorpicker\/images\/map-saturation-overlay.png",
-		"outputAbbreviatedPath": "\/paprcraft\/colorpicker\/images\/map-saturation-overlay.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/colorpicker\/images\/map-saturation.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6260,
-		"inputAbbreviatedPath": "\/paprcraft\/colorpicker\/images\/map-saturation.png",
-		"outputAbbreviatedPath": "\/paprcraft\/colorpicker\/images\/map-saturation.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/css\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/footer.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/footer.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/header.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/header.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/img\/hirsch.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 232307,
-		"inputAbbreviatedPath": "\/paprcraft\/img\/hirsch.png",
-		"outputAbbreviatedPath": "\/paprcraft\/img\/hirsch.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/img\/title.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 99357,
-		"inputAbbreviatedPath": "\/paprcraft\/img\/title.jpg",
-		"outputAbbreviatedPath": "\/paprcraft\/img\/title.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/img\/title.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 518667,
-		"inputAbbreviatedPath": "\/paprcraft\/img\/title.png",
-		"outputAbbreviatedPath": "\/paprcraft\/img\/title.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/impressum.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/impressum.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/index.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/index.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/logo.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/logo.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/old\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/css\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/old\/img\/hirsch.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 232307,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/img\/hirsch.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/img\/hirsch.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/img\/products\/baer.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 34322,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/baer.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/baer.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/img\/products\/bowl.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 59635,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/bowl.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/bowl.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/img\/products\/cube.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 39439,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/cube.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/cube.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/img\/products\/duck.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 51607,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/duck.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/duck.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/img\/products\/heart.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 32353,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/heart.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/heart.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/img\/products\/hirsch.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 31949,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/hirsch.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/hirsch.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/img\/products\/squirrel.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 60387,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/squirrel.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/squirrel.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/img\/products\/unicorn.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 32769,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/unicorn.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/img\/products\/unicorn.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/old\/usage\/ctry_usage_201406.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3768,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/usage\/ctry_usage_201406.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/usage\/ctry_usage_201406.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/usage\/daily_usage_201406.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2820,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/usage\/daily_usage_201406.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/usage\/daily_usage_201406.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/usage\/hourly_usage_201406.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2015,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/usage\/hourly_usage_201406.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/usage\/hourly_usage_201406.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/usage\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/usage\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/old\/usage\/menu.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/usage\/menu.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/old\/usage\/usage.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2344,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/usage\/usage.png",
-		"outputAbbreviatedPath": "\/paprcraft\/old\/usage\/usage.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/old\/usage\/usage_201406.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/usage\/usage_201406.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/old\/usage\/webalizer.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/old\/usage\/webalizer.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/refresh_web\/colorpicker\/images\/bar-brightness.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 263,
-		"inputAbbreviatedPath": "\/paprcraft\/refresh_web\/colorpicker\/images\/bar-brightness.png",
-		"outputAbbreviatedPath": "\/paprcraft\/refresh_web\/colorpicker\/images\/bar-brightness.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/refresh_web\/colorpicker\/images\/bar-saturation.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 257,
-		"inputAbbreviatedPath": "\/paprcraft\/refresh_web\/colorpicker\/images\/bar-saturation.png",
-		"outputAbbreviatedPath": "\/paprcraft\/refresh_web\/colorpicker\/images\/bar-saturation.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/refresh_web\/colorpicker\/images\/map-brightness.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6305,
-		"inputAbbreviatedPath": "\/paprcraft\/refresh_web\/colorpicker\/images\/map-brightness.png",
-		"outputAbbreviatedPath": "\/paprcraft\/refresh_web\/colorpicker\/images\/map-brightness.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/refresh_web\/colorpicker\/images\/map-saturation-overlay.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 38806,
-		"inputAbbreviatedPath": "\/paprcraft\/refresh_web\/colorpicker\/images\/map-saturation-overlay.png",
-		"outputAbbreviatedPath": "\/paprcraft\/refresh_web\/colorpicker\/images\/map-saturation-overlay.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/script.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/script.js",
-		"outputAbbreviatedPath": "\/paprcraft\/min\/script-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/paprcraft\/usage\/ctry_usage_201406.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3471,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201406.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201406.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/ctry_usage_201407.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5144,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201407.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201407.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/ctry_usage_201408.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201408.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201408.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/ctry_usage_201409.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5684,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201409.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201409.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/ctry_usage_201410.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5865,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201410.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201410.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/ctry_usage_201411.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5750,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201411.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201411.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/ctry_usage_201412.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5729,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201412.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201412.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/ctry_usage_201501.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5697,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201501.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/ctry_usage_201501.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/daily_usage_201406.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3109,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201406.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201406.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/daily_usage_201407.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3730,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201407.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201407.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/daily_usage_201408.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3534,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201408.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201408.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/daily_usage_201409.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3715,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201409.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201409.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/daily_usage_201410.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3724,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201410.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201410.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/daily_usage_201411.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3769,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201411.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201411.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/daily_usage_201412.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3818,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201412.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201412.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/daily_usage_201501.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3691,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201501.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/daily_usage_201501.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/hourly_usage_201406.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2221,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201406.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201406.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/hourly_usage_201407.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2112,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201407.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201407.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/hourly_usage_201408.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2080,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201408.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201408.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/hourly_usage_201409.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2134,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201409.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201409.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/hourly_usage_201410.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2223,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201410.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201410.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/hourly_usage_201411.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2192,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201411.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201411.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/hourly_usage_201412.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2197,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201412.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201412.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/hourly_usage_201501.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2177,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201501.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/hourly_usage_201501.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/usage\/menu.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/menu.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/usage\/usage.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2764,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/usage.png",
-		"outputAbbreviatedPath": "\/paprcraft\/usage\/usage.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/paprcraft\/usage\/usage_201406.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/usage_201406.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/usage\/usage_201407.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/usage_201407.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/usage\/usage_201408.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/usage_201408.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/usage\/usage_201409.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/usage_201409.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/usage\/usage_201410.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/usage_201410.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/usage\/usage_201411.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/usage_201411.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/usage\/usage_201412.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/usage_201412.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/usage\/usage_201501.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/usage_201501.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/paprcraft\/usage\/webalizer.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/paprcraft\/usage\/webalizer.html",
+		"inputAbbreviatedPath": "\/main_menu.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1996,10 +1000,28 @@
 		"outputAbbreviatedPath": "\/css\/style.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/social.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/social.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/start_info.php": {
 		"fileType": 8192,
@@ -2018,6 +1040,26 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/testfile.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/testfile.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/thumb_paprcraft.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10745,
+		"inputAbbreviatedPath": "\/thumb_paprcraft.jpg",
+		"outputAbbreviatedPath": "\/thumb_paprcraft.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/TwitterAPIExchange.php": {
 		"fileType": 8192,
