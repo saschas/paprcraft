@@ -2,7 +2,6 @@
 <html>
 <?php $root = 'http://paprcraft.com/'; ?>
 <head>
-
   <meta charset="UTF-8">
   <title>paprcraft — &hearts; 3d web</title>
 <meta name="author" content="paprcraft">
